@@ -18,5 +18,4 @@
 ![image](https://user-images.githubusercontent.com/44626021/168504966-b3693dd7-4a00-4aec-b64f-abdb368a80ed.png)
 ![image](https://user-images.githubusercontent.com/44626021/168504975-44ce9302-a48b-4004-a664-283c9c16456e.png)
  7. CamTest.py<br>
- 
-
+![a](https://user-images.githubusercontent.com/44626021/168505146-ddef22f6-941f-4093-a538-d0cc25251968.png)
