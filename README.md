@@ -1,7 +1,7 @@
 ﻿# FaceMaskDetection 
  
- Requirements:
- -Python 3.x
- -OpenCV
- -scikit-learn
+ Requirements: <br>
+ -Python 3.x<br>
+ -OpenCV<br>
+ -scikit-learn<br>
  
